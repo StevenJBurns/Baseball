@@ -19,5 +19,5 @@ void Season::BuildSchedule()
 
 Team Season::PlayGame(Team visitor, Team home)
   {
-  
+  return home;
   }
